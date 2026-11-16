@@ -2,4 +2,4 @@
 Author: Steven Mou
 
 
-Solving merge conflicts is soooooo hard!
+Solving merge conflicts is easy!
